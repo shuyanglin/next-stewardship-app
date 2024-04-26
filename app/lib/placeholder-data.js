@@ -7,6 +7,19 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: 'c0e83f8a-9ba6-42b8-ba41-26e8e0aa6f45',
+    name: 'Fang',
+    email: 'fang@darkmatterlabs.org',
+    password: '123456',
+  },
+  {
+    id: '8146e291-7c7c-4cf0-9a63-11f4a85a0aa3',
+    name: 'User',
+    email: 'calvin@darkmatterlabs.org',
+    password: '123456',
+  },
+
 ];
 
 const customers = [
